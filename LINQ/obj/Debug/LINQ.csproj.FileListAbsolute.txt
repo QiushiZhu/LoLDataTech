@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\Newtonsoft.Json.xml

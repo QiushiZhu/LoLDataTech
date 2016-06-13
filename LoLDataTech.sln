@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoLQueryGraphSave", "LoLQueryGraphSave\LoLQueryGraphSave.csproj", "{FB3FCF80-C770-44A9-B08B-B1D3C4C6FAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOLStats", "LINQ\LOLStats.csproj", "{DACED21C-1012-492B-A91F-22594ADFA906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3FCF80-C770-44A9-B08B-B1D3C4C6FAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3FCF80-C770-44A9-B08B-B1D3C4C6FAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3FCF80-C770-44A9-B08B-B1D3C4C6FAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3FCF80-C770-44A9-B08B-B1D3C4C6FAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACED21C-1012-492B-A91F-22594ADFA906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACED21C-1012-492B-A91F-22594ADFA906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACED21C-1012-492B-A91F-22594ADFA906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACED21C-1012-492B-A91F-22594ADFA906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
